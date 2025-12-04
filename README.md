@@ -62,7 +62,7 @@ This project goes beyond normal ML — it’s an **end-to-end production simulat
 | File | Description |
 |------|-------------|
 | `Final_code.ipynb` | Main notebook with full FL pipeline + UI |
-| `diabetic_data.csv` | Input dataset (if included) |
+| `diabetic_data.csv` | Input dataset |
 | `README.md` | Documentation (this file) |
 
 ---
