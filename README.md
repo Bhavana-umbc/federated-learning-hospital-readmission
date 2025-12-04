@@ -1,6 +1,6 @@
 # Federated Learning for Hospital Readmission Prediction
 
-This repository contains the code for my SENG 691 project:
+This repository contains the code for my DATA 606 project:
 **Privacy-Preserving Federated Learning for 30-day hospital readmission risk prediction.**
 
 ## Contents
